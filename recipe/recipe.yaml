@@ -42,7 +42,7 @@ source:
         target_directory: pdfium-win-x64
 
 build:
-  number: 0
+  number: 1
 
 outputs:
   - package:
